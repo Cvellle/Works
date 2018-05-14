@@ -208,12 +208,12 @@ h1 {
 }
 
 .iframe:hover {
-	top:5%;
+	/* top:5%;
 	left:5%;
 	height:90%;
 	width:90%;
 	opacity:1;
-	z-index: 15;
+	z-index: 15; */
 
 }
 
