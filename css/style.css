@@ -248,8 +248,8 @@ h1 {
 .ifr3 {
 	position:absolute;
 	top:0%;
-	left:199.95%;
-	width:105%;
+	left:200%;
+	width:100%;
 	height:90%;
 	z-index: 5;
 }
